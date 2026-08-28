@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+supabase
+pinecone-client
+google-cloud-aiplatform
+python-dotenv
