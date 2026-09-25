@@ -39,6 +39,7 @@ htmlcov/
 Thumbs.db
 *.log
 
-# Secrets
+# Secrets & Agent Rules
 .env
 .env.local
+.antigravityrules
